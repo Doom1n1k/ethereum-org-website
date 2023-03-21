@@ -727,5 +727,15 @@
     "description": "Bootcamp, Hackathon, and 1-day conference in the sun.",
     "startDate": "2023-03-31",
     "endDate": "2023-04-02"
+  },
+  {
+    "title": "ETHPrague",
+    "to": "https://ethprague.com/",
+    "sponsor": null,
+    "location": "Prague, CZ",
+    "description": "ETHPrague isn't looking for the next get rich quick scheme or groundbreaking DeFi apps. Instead, it's an event focused on the future of Ethereum and potential concepts or applications that don't yet exist. We want to tackle challenges that could arise in the next decade because we believe Ethereum will play a major role in solving problems. The future is in your hands, anon! You decide whether we end up living in a dark authoritarian dystopia or a bright solarpunk utopia.
+",
+    "startDate": "2023-06-09",
+    "endDate": "2023-06-11"
   }
 ]
